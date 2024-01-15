@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_TodoList", "00_TodoList\00_TodoList.csproj", "{BFD42863-52F8-4CF4-9DF9-2C6E36124E26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator", "SimpleCalculator\SimpleCalculator.csproj", "{87CC0E49-E864-4109-A768-74C4E36514F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFD42863-52F8-4CF4-9DF9-2C6E36124E26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD42863-52F8-4CF4-9DF9-2C6E36124E26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD42863-52F8-4CF4-9DF9-2C6E36124E26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD42863-52F8-4CF4-9DF9-2C6E36124E26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87CC0E49-E864-4109-A768-74C4E36514F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87CC0E49-E864-4109-A768-74C4E36514F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87CC0E49-E864-4109-A768-74C4E36514F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87CC0E49-E864-4109-A768-74C4E36514F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
